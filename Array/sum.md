@@ -1,4 +1,4 @@
-Program to read any 2x2 matrix and display in format.
+Program to input two matrix A and B and find their sum
 ```c
 #include <stdio.h>
 int main() {
