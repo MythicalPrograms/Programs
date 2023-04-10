@@ -1,4 +1,4 @@
-Program to find transpose of a 2x3 matrix
+Program to find transpose of a 2x3 matrix and display them
 ```c
 #include <stdio.h>
 int main() {
